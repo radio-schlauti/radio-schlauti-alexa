@@ -1,12 +1,12 @@
 {
-  "name": "radio-schlauti-alexa",
-  "version": "1.0.1",
-  "description": "Radio Schlauti's Stream skill",
+  "name": "alexa-single-skill-template",
+  "version": "1.0.0",
+  "description": "template used for building single stream skills",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Manuel Pinnecke von Radio Schlauti's",
+  "author": "Amazon Alexa",
   "license": "Apache License",
   "dependencies": {
     "ask-sdk-core": "^2.7.0",

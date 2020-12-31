@@ -12,7 +12,7 @@ const messages = {
     continue:
         'Ich mache weiter, wo wir beim letzten Mal aufgehört haben.',
     help:
-        'Du hörst einen Sender von Radio Schlauti.',
+        'Du hörst einen Sender von Radio Schlauti',
     pause:
         'Ok. Mit fortfahren, gehts weiter',
     stop:
@@ -20,7 +20,7 @@ const messages = {
     welcome:
         'Willkommen, du hörst' + spokenStationName,
     more:
-        'Wenn Du mehr Sender hören willst, besuch uns auf radio-schlauti punkt <say-as interpret-as="cardinal">DE</say-as>.',
+        'Wenn Du mehr Sender hören willst, besuch uns auf radio-schlauti punkt <say-as interpret-as="cardinal">de</say-as>.',
     unable:
         'Das kann ich leider nicht.',
     fallback:
